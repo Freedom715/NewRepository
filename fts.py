@@ -1,5 +1,5 @@
-def my_superfunction():
-    print('Python!')
+def my_superfunction_2():
+    print('What an awesome print!')
 
 
 def main():
@@ -7,8 +7,9 @@ def main():
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
-    my_superfunction()
+    my_superfunction_2()
 
 
 if __name__ == '__main__':
     main()
+    print(715)
